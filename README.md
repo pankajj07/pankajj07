@@ -1,3 +1,10 @@
+<style>
+  body {
+    background: url('your-watermark.png') no-repeat center center;
+    background-size: contain;
+    opacity: 0.05;
+  }
+</style>
 
 <h1 align="center">Hey 👋, This is Pankaj</h1>
 <h3 align="center">A Full Stack developer at AstrotTime</h3>
