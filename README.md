@@ -1,6 +1,6 @@
 
 <h1 align="center">Hey 👋, This is Pankaj</h1>
-<h3 align="center">A Full Stack developer at Astrotime</h3>
+<h3 align="center">A Full Stack developer at AstrotTime</h3>
 <!-- <p><img align="right" alt="coding" width="1010" height="300" src="https://media1.tenor.com/m/bgjttZOc9_IAAAAC/java.gif"> </p> -->
 <!-- <p><img align="right" alt="coding" width="1010" height="250" src="github-header-image.png"> </p> -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pankajyadav0123&label=Profile%20views&color=0e75b6&style=flat" alt="pankajyadav0123" /> </p> 
