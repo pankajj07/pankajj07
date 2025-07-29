@@ -69,7 +69,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pankajyadav0123&show_icons=true&locale=en" alt="pankajyadav0123" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pankajj07&show_icons=true&locale=en" alt="pankajj07" />
 </p>
 
 ---
