@@ -68,7 +68,9 @@
 
 ### 📊 GitHub Stats
 
-![Pankaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=pankajj07&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pankajj07&show_icons=true&theme=radical" alt="Pankaj's GitHub stats" />
+</p>
 
 ---
 
