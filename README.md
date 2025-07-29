@@ -1,10 +1,6 @@
-<style>
-  body {
-    background: url('p.jpg') no-repeat center center;
-    background-size: contain;
-    opacity: 0.05;
-  }
-</style>
+<p align="center">
+  <img src="p.jpg" alt="watermark" width="200" style="opacity:0.1;" />
+</p>
 
 <h1 align="center">Hey 👋, This is Pankaj</h1>
 <h3 align="center">A Full Stack developer at AstrotTime</h3>
