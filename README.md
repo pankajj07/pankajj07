@@ -1,6 +1,6 @@
 <style>
   body {
-    background: url('your-watermark.png') no-repeat center center;
+    background: url('p.jpg') no-repeat center center;
     background-size: contain;
     opacity: 0.05;
   }
