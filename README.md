@@ -79,4 +79,4 @@
 
 ---
 
-<h2 align="center">✨ Thanks for visiting! ✨</h2>
+<h3 align="center">✨ Thanks for visiting! ✨</h3>
