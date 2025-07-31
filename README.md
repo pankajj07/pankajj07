@@ -1,6 +1,6 @@
 <!-- Watermark image (Optional, use a semi-transparent image) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Hey+%F0%9F%91%8B+I'm+Pankaj;Web+Developer+%7C+Astrology+Lover;Let's+Code+%26+Explore+Spirituality+%F0%9F%8C%90" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Hey+%F0%9F%91%8B+I'm+Pankaj;Full+Stack+Developer+%7C+AstroTime;Let's+Code+%26+Explore+Spirituality+%F0%9F%8C%90" alt="Typing SVG" />
 </p>
 <p align="center">
   <img src="p.jpg" alt="watermark" width="180" />
