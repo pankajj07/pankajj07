@@ -1,6 +1,6 @@
 <!-- Watermark image (Optional, use a semi-transparent image) -->
 <p align="center">
-  <img src="p.jpg" alt="watermark" width="180" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Pankaj;Web+Developer+%7C+Astrology+Lover;Let's+Code+%26+Explore+Spirituality+%F0%9F%8C%90" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Hey 👋, I'm Pankaj Yadav</h1>
