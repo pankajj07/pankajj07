@@ -8,14 +8,14 @@
 <!-- <h3 align="center">Full Stack Developer @ AstroTime</h3>
  -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pankajyadav0123&label=Profile%20views&color=0e75b6&style=flat" alt="pankajyadav0123" />
+  <img src="https://komarev.com/ghpvc/?username=pankajj07&label=Profile%20views&color=0e75b6&style=flat" alt="pankajj07" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pankajj07" target="_blank">
     <img src="https://img.shields.io/badge/Connect on LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:pankajj07@gmail.com">
+  <a href="mailto:pankaj.reck@gmail.com">
     <img src="https://img.shields.io/badge/Email Me-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
 </p>
