@@ -10,7 +10,7 @@
 
 <p align="center">
   <!-- Optional banner — ensure ppp.png exists in repo root -->
-  <img src="ppp.png" alt="Banner" width="850" />
+  <img src="ppp.png" alt="Banner" width="450" />
 </p>
 
 <p align="center">
