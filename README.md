@@ -68,8 +68,11 @@
 
 ## 📈 GitHub Analytics
 
+## 📈 GitHub Analytics
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pankajj07&show_icons=true&rank_icon=github&include_all_commits=true&theme=radical&cache_seconds=7200" alt="stats" />
+  <!-- Removed include_all_commits + kept caching to reduce rate limit hits -->
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pankajj07&show_icons=true&theme=radical&cache_seconds=7200" alt="stats" />
   <img height="165" src="https://streak-stats.demolab.com?user=pankajj07&theme=radical" alt="streak" />
 </p>
 
@@ -77,9 +80,6 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankajj07&layout=compact&langs_count=8&theme=radical&cache_seconds=7200" alt="top-langs" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pankajj07&theme=algolia&no-frame=true&margin-w=10&margin-h=10" alt="trophies"/>
-</p>
 
 ---
 
